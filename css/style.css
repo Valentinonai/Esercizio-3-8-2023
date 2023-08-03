@@ -10862,6 +10862,14 @@ textarea.form-control-lg {
 }
 
 .navbarEdit {
-  order: 1;
   margin-inline-start: 20px;
+}
+
+@media screen and (min-width: 991px) {
+  .move {
+    order: 3;
+  }
+  .move1 {
+    order: 2;
+  }
 }/*# sourceMappingURL=style.css.map */
