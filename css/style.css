@@ -10877,4 +10877,9 @@ textarea.form-control-lg {
   .btnHide {
     display: none;
   }
+}
+@media screen and ((max-width: 575px)) {
+  .btnHide {
+    display: none;
+  }
 }/*# sourceMappingURL=style.css.map */
