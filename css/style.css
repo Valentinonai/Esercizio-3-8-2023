@@ -10872,4 +10872,9 @@ textarea.form-control-lg {
   .move1 {
     order: 2;
   }
+}
+@media screen and ((min-width: 992px) and (max-width: 1200px)) {
+  .btnHide {
+    display: none;
+  }
 }/*# sourceMappingURL=style.css.map */
